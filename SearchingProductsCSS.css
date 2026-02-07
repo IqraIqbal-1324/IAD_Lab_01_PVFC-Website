@@ -1,0 +1,20 @@
+﻿.products{
+	max-width:300px;
+	height:auto;
+	margin:75px auto;
+	padding-bottom:5px;
+	background-color:yellow;
+	border:2px solid black;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+}
+h3{
+    font-weight:bolder ;
+	color:blue;
+	text-align:center;
+}
+.search button{
+	color:blue;
+}

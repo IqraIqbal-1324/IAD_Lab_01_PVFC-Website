@@ -1,0 +1,30 @@
+﻿h1{
+	text-align: left;
+	color:blue;
+	margin:1px 3px 10px 3px;
+	padding-left:40px;
+}
+.order{margin-left:30px;}
+.table {
+	width:324px;
+	border: 1px solid black;
+	padding:5px;
+
+}
+th, td {
+    text-align: center;
+	border: 1px solid black;
+
+}
+.places {
+	margin:3px 3px 3px 3px;
+	float:right;
+	height:40px;
+	width:100px;
+	color:blue;
+	text-align:center;
+}
+.details {
+    width: 324px;
+    margin-left: 30px;
+}

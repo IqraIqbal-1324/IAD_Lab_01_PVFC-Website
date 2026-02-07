@@ -1,0 +1,39 @@
+﻿.products{
+	max-width:600px;
+	height:auto;
+    background-color:#F7C59F;
+    margin:75px auto;
+    border:2px solid black;
+    text-align:center;
+}
+.results{
+	width:auto;
+	height:auto;
+	padding-bottom:5px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	gap:20px;
+}
+.results div{
+	text-align:center;
+}
+.results h4 {
+    margin: 10px 0 5px 0;
+}
+.results p {
+    margin: 5px 0;
+}
+h1{
+    font-weight:bolder;
+	color:blue;
+	text-align:center;
+}
+.shops {
+	margin:3px 3px 3px 3px;
+	float:right;
+	height:40px;
+	width:100px;
+	color:blue;
+	text-align:center;
+}
